@@ -39,6 +39,7 @@ html body main {
   margin-top: 30px;
 }
 html body main a {
+  max-width: 800px;
   color: #fff;
   width: 90%;
   height: 60px;
